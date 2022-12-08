@@ -1,0 +1,19 @@
+{
+    "user": [
+      {
+        "username": "Merin",
+        "password": "merin",
+        "email": "merin@gmail.com",
+        "url": "https://i.pravatar.cc/150?img=47",
+        "id": 1
+      },
+      {
+        "username": "Robin",
+        "password": "robin",
+        "email": "robin@gmail.com",
+        "url": "https://i.pravatar.cc/150?img=55",
+        "id": 2
+      }
+    ],
+    "tweet": []
+  }
