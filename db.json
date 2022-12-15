@@ -53,14 +53,22 @@
               "id": 4
               },
               {
-                "name": "Johh ",
+                "name": "Johmia ",
                 "age": "28",
                 "country": "AUS",
-                "gender": "male",
+                "gender": "female",
                 "profession": "Student",
-                "pic": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=200",
+                "pic": "https://img.freepik.com/free-photo/portrait-happy-excited-asian-girl-adjusting-hair_1262-19183.jpg?size=626&ext=jpg",
                 "id": 5
-                }
+                },   {
+                  "name": "Niky ",
+                  "age": "30",
+                  "country": "AUS",
+                  "gender": "female",
+                  "profession": "Student",
+                  "pic": "https://img.freepik.com/free-photo/portrait-happy-excited-asian-girl-adjusting-hair_1262-19183.jpg?size=626&ext=jpg",
+                  "id": 6
+                  }
     ],
     "report":[]
     
