@@ -177,6 +177,27 @@
       "age": 3,
       "place": "Banglore",
       "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Berry",
+      "age": 4,
+      "place": "Mumbai",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "jommy",
+      "age": 5,
+      "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "name": "Fluto",
+      "age": 6,
+      "place": "Cochi",
+      "gender": "Male"
     }
   ]
 
